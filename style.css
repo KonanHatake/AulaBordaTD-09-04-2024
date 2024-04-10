@@ -1,0 +1,11 @@
+.solid
+{
+    border-style: solid;
+    border-width: 20px 5px 100px 200px;
+    border-color: #3d3d3d #000000 #858585 #b8b8b8
+}
+
+.groove
+{
+    border: red 5px solid;
+}
